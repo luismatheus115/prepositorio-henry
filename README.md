@@ -1,2 +1,1 @@
-# prepositorio-henry
-este es el primero repositorio para henry de github
+"Este es mi primero proyecto y aprender a clonardo desde github
